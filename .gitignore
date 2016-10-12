@@ -1,0 +1,8 @@
+node_modules/
+credentials/
+scratch/
+.env
+.vagrant.env.cfg
+.vagrant/
+.DS_Store
+tmp/

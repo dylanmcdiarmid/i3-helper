@@ -1,0 +1,26 @@
+{
+  "name": "i3-helper",
+  "version": "0.0.1",
+  "description": "Tools to help manage my i3 desktop environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanmcdiarmid/i3-helper.git"
+  },
+  "keywords": [
+    "i3",
+    "desktop"
+  ],
+  "author": "Dylan McDiarmid <dylan@littleloops.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanmcdiarmid/i3-helper/issues"
+  },
+  "homepage": "https://github.com/dylanmcdiarmid/i3-helper#readme",
+  "dependencies": {
+    "i3": "^0.2.1"
+  }
+}
